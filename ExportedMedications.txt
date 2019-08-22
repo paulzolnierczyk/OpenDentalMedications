@@ -1,0 +1,432 @@
+ Cordarone, Nexterone, Pacerone	Amiodarone		0
+ Isometh-Dichloral-Acetaminophn	 Isometh-Dichloral-Acetaminophn	This combination medication is used to relieve tension and migraine headaches. Headache pain can sometimes be caused by widened blood vessels in the head. Isometheptene works by narrowing these widened blood vessels. Acetaminophen relieves mild to moderate pain from various causes, including headache. Dichloralphenazone has a calming effect to help you relax.	0
+ Microzide	Hydrochlorothiazide(HTCZ)		0
+ Zocor	Simvastatin		0
+"Other 1"	"Other 1"	Chlorthalidone treats fluid retention (edema) in people with congestive heart failure, cirrhosis of the liver, or kidney disorders, or edema caused by taking steroids or estrogen. This medication is also used to treat high blood pressure (hypertension).	0
+"Other 2"	"Other 2"		0
+"Other 3"	"Other 3"		0
+"Other 4"	"Other 4"		0
+"Other 5"	"Other 5"		0
+"Other 6"	"Other 6"		0
+Acetaminophen	Aspirin		0
+Acetaminophen / Oxycodone	Acetaminophen / Oxycodone	It can treat moderate to moderately severe pain.	0
+Aclasta/Reclast (Zoledronic Acid)	Aclasta/Reclast (Zoledronic Acid)	Bisphosphonate for treatment of osteoporosis	0
+Adalimumab	Adalimumab	It can treat arthritis, plaque psoriasis, ankylosing spondylitis, Crohn's disease, and ulcerative colitis.	0
+Adderall	Adderall	For treatment of ADHD	0
+Adderall, Adderall XR, Mydayis	Amphetamine and dextroamphetamine		0
+Advil, Motrin 	Ibuprofen 		0
+Albuterol	Albuterol	It can treat or prevent bronchospasm.	0
+Aldactone	Spironolactone		0
+Alendronic acid	Alendronic acid	It can treat or prevent osteoporosis. It can also treat Paget's disease of the bone.	0
+Aleve, Naprosyn, Ec-Naprosyn	Naproxen		0
+Allegra	Fexofenadine		0
+Allopurinol	Allopurinol	It can treat gout and kidney stones.	0
+Alprazolam	Alprazolam	It can treat anxiety and panic disorder.	596
+Alsuma, Onzetra Xsail, Zembrace Symtouch	Sumatriptan		0
+Amaryl	Glimepiride		0
+Ambien (Zolpidem)	Ambien (Zolpidem)	Sedative used to treat insomnia	0
+Ambien, Edluar, Intermezzo	Zolpidem		0
+Amerge	Naratriptan		0
+Amiodarone	Amiodarone	It can treat heart rhythm problems.	0
+Amlodipine	Amlodipine	It can treat high blood pressure and chest pain (angina).	17767
+Amoxicillin	Amoxicillin	It can treat infections and stomach ulcers.	0
+Amoxicillin Elixir	Amoxicillin Elixir	Take this medication by mouth with or without food as directed by your doctor, usually every 8 or 12 hours. 	0
+Amphetamine and dextroamphetamine	Amphetamine and dextroamphetamine	Adderall contains a combination of amphetamine and dextroamphetamine. Amphetamine and dextroamphetamine are central nervous system stimulants that affect chemicals in the brain and nerves that contribute to hyperactivity and impulse control.
+Adderall is used to treat narcolepsy and attention deficit hyperactivity disorder (ADHD).	0
+Amrix, Fexmid	Cyclobenzaprine		0
+Apixaban	Apixaban	Eliquis (apixaban) blocks the activity of certain clotting substances in the blood.
+Eliquis is used to lower the risk of stroke caused by a blood clot in people with a heart rhythm disorder called atrial fibrillation.
+Eliquis is also used after hip or knee replacement surgery to prevent a type of blood clot called deep vein thrombosis (DVT), which can lead to blood clots in the lungs (pulmonary embolism).
+Eliquis is also used to treat DVT or pulmonary embolism (PE), and to lower your risk of having a repeat DVT or PE.	0
+Apremilast	Apremilast	Apremilast is a medication for the treatment of certain types of psoriasis and psoriatic arthritis. It may also be useful for other immune system related inflammatory diseases	0
+Apriso	Apriso		0
+Aricept	Donepezi		0
+Armor thyroid 60mg	Armor thyroid 60mg		0
+asacol	asacol		196496
+Aspirin	Aspirin		0
+Asprin 81 mg	Asprin 81 mg		0
+Asprin EC	Asprin EC	81mg
+
+Aspirin is used to reduce fever and relieve mild to moderate pain from conditions such as muscle aches, toothaches, common cold, and headaches. ... Aspirin is known as a salicylate and a nonsteroidal anti-inflammatory drug (NSAID). It works by blocking a certain natural substance in your body to reduce pain and swelling.
+	0
+Atenolol	Atenolol	It can treat high blood pressure and chest pain (angina). It can also reduce the risk of death after a heart attack.	1202
+Ativan, Lorazepam Intensol	Lorazepam		0
+Atorvastatin	Atorvastatin	It can treat high cholesterol and triglyceride levels. This may reduce the risk of angina, stroke, heart attack, and heart and blood vessel problems.	83367
+Aubagio	Teriflunomide		0
+Avapro (Irbesartan)	Avapro (Irbesartan)	For Treatment of high blood pressure and/or diabetic nephropathy	0
+Azelastine	Azelastine	It can treat allergic itching of the eyes.	0
+Azilect	Rasagiline		0
+B-6 Vitamin	B-6 Vitamin		0
+B12	B12		0
+Baby Asprin	Baby Asprin		0
+Baking Soda	Baking Soda		0
+Benadryl	Diphenhydramine		0
+Benazepril	Benazepril	It can treat high blood pressure.	0
+Bimatoprost	Bimatoprost	It can reduce pressure inside the eye in its eye drops form. As an eyelash solution, it can help eyelashes grow.	0
+Bioidentical Progesterone	Bioidentical Progesterone		0
+Bioidentical testosterone	Bioidentical testosterone		0
+Biotin	Biotin		1588
+Birth Control medications	Birth Control medications		0
+Boniva (Ibandronate)	Boniva (Ibandronate)	Bisphosphonate for treatment of osteoporosis	0
+Brilinta	Ticagrelor		0
+Budesonide / Formoterol	Budesonide / Formoterol	It can treat asthma and COPD.	0
+Bupropion	Bupropion	It can treat depression and help people quit smoking. It can also prevent depression caused by seasonal affective disorder (SAD)	0
+Burpropion HCI ER	Burpropion HCI ER		0
+Buspar	Buspar		154990
+calcipotriene 0.005 cream	calcipotriene 0.005 cream	Vitamin
+It can treat plaque psoriasis in adults.	0
+Calcium 	Calcium 	It can supply the body with calcium if the regular diet does not provide enough. It can also prevent weak or brittle bones (osteoporosis).	1895
+Carvedilol	Carvedilol	It can treat high blood pressure and heart failure. It can also reduce the risk of death after a heart attack.	0
+Catapres	Clonidine		0
+Celebrex	Celebrex	Non-steroidal anti inflammatory 	0
+Celexa	Citalopram		0
+Celexa (Citalopram)	Celexa (Citalopram)	For treatment of depression	0
+Cetirizine	Cetirizine	It can treat hay fever and allergy symptoms, hives, and itching.	0
+Chlorthalidone	Chlorthalidone	treats fluid retention (edema) in people with congestive heart failure, cirrhosis of the liver, or kidney disorders, or edema caused by taking steroids or estrogen. This medication is also used to treat high blood pressure (hypertension).	0
+Chromium Picolinate	Chromium Picolinate	Is a chemical compound that's sometimes used as an alternative therapy or as a nutritional supplement. 	0
+Cialis (Tadalafil)	Cialis (Tadalafil)	For treatment of erectile dysfunction	0
+Ciprofloxacin	Ciprofloxacin	Antibiotic	0
+Citalopram	Citalopram	It can treat depression.	0
+Claritin	Loratadine		0
+Claritin (Loratadine)	Claritin (Loratadine)	For treatment of allergies	0
+Clindamycin	Clindamycin	Antibiotic	0
+Clobetasol 0.05%	Clobetasol 0.05%		0
+Clonazepam	Clonazepam	It can treat seizures, panic disorder, and anxiety.	0
+Clonidine	Clonidine	Sedative and antihypertensive drug
+It can treat high blood pressure. Certain formulations can also treat ADHD and cancer pain.	0
+Codeine	Codeine	Narcotic pain reliever	0
+Conjugated estrogen	Conjugated estrogen	It can treat hot flashes and other symptoms of menopause or low estrogen. After menopause it can prevent osteoporosis. It can also treat advanced breast and prostate cancer.	0
+COQ	COQ		0
+Coreg (Carvedilol)	Coreg (Carvedilol)	For treatment of high blood pressure, heart failure, and heart function problems especially after a heart attack	0
+Coreg, Coreg CR	Carvedilol		0
+Coumadin (Warfarin)	Coumadin (Warfarin)	Blood thinner	0
+Coumadin, Jantoven	Warfarin		0
+Cozaar	Losartan		0
+Crestor	Rosuvastatin		0
+Crestor (Rosuvastatin)	Crestor (Rosuvastatin)	For treatment of high cholesterol	0
+Cutivate	Fluticasone (flonase)		0
+Cyclobenzaprine	Cyclobenzaprine	It can treat pain and stiffness caused by muscle spasms.	0
+Cyclobenzaprine (Flexeril)	Cyclobenzaprine (Flexeril)	Muscle Relaxant	0
+Cyclosporine	Cyclosporine	It can prevent organ rejection after transplant in its oral form. It can also treat rheumatoid arthritis and psoriasis. In eye drop form it can treat chronic dry eye.	0
+Cymbalta	Duloxetine		0
+Cymbalta (Duloxetine)	Cymbalta (Duloxetine)	For treatment of depression	0
+Cytomel (liothyronine)	Cytomel (liothyronine)	Cytomel (liothyronine sodium) is a synthetic thyroid hormone used to treat hypothyroidism (low thyroid hormone). Cytomel is also used to treat or prevent goiter (enlarged thyroid gland), and is also given as part of a medical tests for thyroid disorders. Cytomel is available in generic form.	0
+Delestrogen, Elestrin, EstroGel	Estradiol		0
+Deltasone, Rayos, Prednisone Intensol	Prednisone		0
+Demerol (Meperidine)	Demerol (Meperidine)	Narcotic pain reliever	0
+Diazepam	Diazepam	It can treat anxiety, muscle spasms, and seizures.
+	0
+Diclofenac	Diclofenac	It can treat pain, migraines, and arthritis in its oral form. It can also treat actinic keratoses in its topical form.	0
+Didronel (Etidronate)	Didronel (Etidronate)	Bisphosphonate for treatment of osteoporosis	0
+Dilantin	Phenytoin		0
+Diltiazem	Diltiazem	Calcium channel blocker and antihypertensive drug
+It can treat high blood pressure and chest pain (angina).	0
+Diovan	Valsartan		0
+Diphenhydramine	Diphenhydramine	It can treat pain and itching caused by insect bites, minor cuts, burns, poison ivy, poison oak, and poison sumac when applied topically. In its oral form, it can treat hay fever, allergies, cold symptoms, and insomnia. In its injected form, it can treat severe allergic reactions, motion sickness, and symptoms of Parkinson's disease.	0
+Diuretic	Diuretic		0
+Donepezi	Donepezi	It can treat Alzheimer's disease.	0
+Dorzolamide	Dorzolamide	It can treat increased eye pressure caused by glaucoma or ocular hypertension.	0
+Doxycycline	Doxycycline	Antibiotic	0
+Duexis tab	Ibuprofen and famotidine		0
+Duloxetine	Duloxetine	It can treat depression, anxiety, diabetic peripheral neuropathy, fibromyalgia, and chronic muscle or bone pain.	0
+Effexor (Venlafaxine)	Effexor (Venlafaxine)	For treatment of depression	0
+Elidel	Pimecrolimus		0
+Eliquis	Apixaban		0
+Envarsus XR	Envarsus XR	It can prevent organ rejection after transplant in its oral form. When applied topically it can treat a skin rash and type of eczema called atopic dermatitis.	0
+Escitalopram	Escitalopram	It can treat depression and generalized anxiety disorder (GAD).	0
+Esomeprazole	Esomeprazole	It can treat gastroesophageal reflux disease (GERD). It can also lower the risk of bleeding after endoscopy in patients with ulcers.	0
+Estrace	Estradiol		0
+Estradiol	Estradiol	It can treat symptoms caused by menopause or removal of the ovaries. It can also treat prostate and breast cancer, and prevent osteoporosis.	0
+Eszopiclone	Eszopiclone	It can treat insomnia.	0
+Evista	Raloxifene		0
+Famciclovir	Famciclovir	Famciclovir is a guanosine analogue antiviral drug used for the treatment of various herpesvirus infections, most commonly for herpes zoster. It is a prodrug form of penciclovir with improved oral bioavailability	0
+Feldene	Piroxicam		0
+Fenofibrate	Fenofibrate	It can lower high cholesterol and triglyceride levels.	0
+Fexofenadine	Fexofenadine	It can treat hay fever symptoms. It can also treat chronic skin hives and itching.	0
+Finasiride	Finasiride		0
+Flomax	Tamsulosin		0
+Flonase	Fluticasone (flonase)		0
+Flonase (Fluticasone)	Flonase (Fluticasone)	For treatment of nasal congestion and runny nose	0
+Fluoxetine	Fluoxetine	It can treat depression, obsessive-compulsive disorder (OCD), bulimia nervosa, and panic disorder.	0
+Fluticasone (flonase)	Fluticasone (flonase)	It can treat pain, itching, and swelling caused by many skin diseases when applied topically. It can also prevent asthma attacks when inhaled.	0
+Folic acid	Folic acid	It can treat certain types of anemia. It's also given to women who are pregnant or who plan to become pregnant.	0
+Fosamax	Alendronic acid		0
+Fosamax (Alendronate)	Fosamax (Alendronate)	Bisphosphonate for treatment of osteoporosis	0
+Gabapentin	Gabapentin	It can treat seizures and pain caused by shingles.	0
+GabapentinListen 	Neuraptine		0
+Gemfibrozil	Gemfibrozil	It can lower high cholesterol and triglyceride levels in the blood.	0
+Glimepiride	Glimepiride	It can treat type 2 diabetes.	0
+Glipizide	Glipizide	It can treat type 2 diabetes.	0
+Glucosamine	Glucosamine	Glucosamine is an amino sugar and a prominent precursor in the biochemical synthesis of glycosylated proteins and lipids	0
+Glucotrol	Glipizide		0
+Glumetza, Glucophage, Fortamet	Metformin		0
+Halcion	Triazolam		0
+Hemangeol, Inderal XL, InnoPran XL	Propranolol		0
+Humalog	Insulin lispro		0
+Humira	Adalimumab		0
+Hydralazine	Hydralazine	Vasodilator
+It can treat high blood pressure.	0
+Hydrochlorothiazide(HTCZ)	Hydrochlorothiazide(HTCZ)	It can treat high blood pressure and fluid retention (edema).	0
+Hydrochlorothiazide/ Losartan	Hydrochlorothiazide/ Losartan	It can treat high blood pressure, reducing the risk of stroke and heart attack.	0
+Hydrocodone (Vicodin/Lortan/Norco)	Hydrocodone (Vicodin/Lortan/Norco)	Narcotic pain reliever	0
+Hydrocodone/Acetaminophen	Hydrocodone/Acetaminophen	pain medication 	0
+Hydroschlorothiazide	Hydroschlorothiazide		0
+Hydroxychloroquine	Hydroxychloroquine	It can treat and prevent malaria. It can also treat lupus and arthritis.	0
+Hydroxyzine	Hydroxyzine	It can treat anxiety, nausea, vomiting, allergies, skin rash, hives, and itching. It can also be used with anesthesia before medical procedures.	0
+Hydroxyzine	Hydroxyzine	It can treat anxiety, nausea, vomiting, allergies, skin rash, hives, and itching. It can also be used with anesthesia before medical procedures.	0
+Hyzaar	Hydrochlorothiazide/ Losartan		0
+Ibuprofen 	Ibuprofen 		0
+Ibuprofen and famotidine	Ibuprofen and famotidine	Used to relieve the signs and symptoms of rheumatoid arthritis and osteoarthritis and to decrease the risk of developing ulcers	0
+Imitrex	Sumatriptan		0
+Indapamide	Indapamide	It can treat high blood pressure and fluid retention (edema).	0
+Insulin degludec	Insulin degludec	Insulin degludec is an ultralong-acting basal insulin analogue that was developed by Novo Nordisk under the brand name Tresiba. It is administered via subcutaneous injection once daily to help control the blood sugar level of those with diabetes.	0
+Insulin degludec	Insulin degludec	Insulin degludec is an ultralong-acting basal insulin analogue that was developed by Novo Nordisk under the brand name Tresiba. It is administered via subcutaneous injection once daily to help control the blood sugar level of those with diabetes.	0
+Insulin lispro	Insulin lispro	It can treat diabetes.	0
+Iron supplement	Iron supplement	used for certain types of anemia. Anemia can cause fatigue and other symptoms	0
+Isosorbide mononitrate	Isosorbide mononitrate	nitrate that dilates (widens) blood vessels, making it easier for blood to flow through them and easier for the heart to pump. Isosorbide mononitrate is used to prevent angina attacks (chest pain). Isosorbide mononitrate will not treat an angina attack that has already begun.	0
+Januvia	Sitagliptin		0
+Klonopin	Clonazepam		0
+Klor-Con (Potassium Chloride)	Klor-Con (Potassium Chloride)	For treatment of low potassium levels from disease or medication	0
+Lamictal	Lamotrigine		0
+Lamotrigine	Lamotrigine	It can treat seizures and bipolar disorder.	0
+Lansoprazole	Lansoprazole	It can treat stomach ulcers, a damaged esophagus, gastroesophageal reflux disease (GERD), and high levels of stomach acid.	0
+Lasix (Furosemide)	Lasix (Furosemide)	For treatment of edema associated with congestive heart failure and poor circulation	0
+Latanoprost	Latanoprost	It can treat glaucoma.	0
+Levemir	Levemir	to treat diabetes	0
+Levocetirizine	Levocetirizine	It can treat hay fever and hives.	0
+Levonorgestrel	Levonorgestrel	It can prevent pregnancy after unprotected sex or after another birth control method fails.	0
+Levothyroxine	Levothyroxine	It can treat hypothyroidism. It can also treat an enlarged thyroid gland and thyroid cancer.	0
+levothyroxine	levothyroxine	Levothyroxine sodium is a drug approved by the FDA as an oral and injectable prescription thyroid hormone medication that is used to treat underactive thyroid (hypothyroidism) and other conditions	0
+Lexapro	Escitalopram		0
+Lexapro (Escitalopram)	Lexapro (Escitalopram)	For treatment of depression	0
+Liothyronine	Liothyronine	It can treat severe hypothyroidism. This occurs when the body does not produce enough thyroid hormone.	0
+Lipitor	Atorvastatin		0
+Lipitor (Atorvastatin Calcium )	Lipitor (Atorvastatin Calcium )	For treatment of high cholesterol	0
+Lisinopril	Lisinopril	It can treat high blood pressure and heart failure. It can also reduce the risk of death after a heart attack.	29046
+Lopressor (Metoprolol)	Lopressor (Metoprolol)	For treatment of angina and hypertension	0
+Lopressor, Toprol	Metoprolol		0
+Loratadine	Loratadine	It can treat allergy symptoms and hives.	0
+Lorazepam	Lorazepam	It can treat seizure disorders, such as epilepsy. It can also be used before surgery and medical procedures to relieve anxiety.	0
+Losartan	Losartan	It can treat high blood pressure. It can reduce the risk of stroke in patients with high blood pressure and an enlarged heart. It can also treat kidney disease in patients with diabetes.	0
+Losartan (Cozaar)	Losartan (Cozaar)	For treatment of high blood pressure and stroke prevention	0
+Lotensin	Benazepril		0
+Lumigan	Bimatoprost		0
+Lunesta	Eszopiclone		0
+Lyrica	Lyrica		0
+Medrol (Methylprednisolone)	Medrol (Methylprednisolone)	For treatment of various inflammatory conditions	0
+Meloxicam	Meloxicam	It can treat osteoarthritis (OA) and rheumatoid arthritis (RA).	0
+Meloxicam (Mobic)	Meloxicam (Mobic)	NSAID for treatment of osteoarthritis or rheumatoid arthritis	0
+Memantine	Memantine	It can treat dementia associated with Alzheimer's disease	0
+Mesalamine	Mesalamine		0
+Metformin	Metformin	It can treat type 2 diabetes.	0
+Metformin (Glucophage)	Metformin (Glucophage)	For treatment of Type II Diabetes. Sometimes used in conjunction with insulin in type I diabetics	0
+Methocarbamol	Methocarbamol	It can treat muscle spasms and pain.	0
+METHYLPHENIDATE	METHYLPHENIDATE	Can cause rapid or irregular heartbeat, delirium, panic, psychosis, and heart failure.	6901
+Metoprolol	Metoprolol	It can treat high blood pressure, chest pain (angina), and heart failure. This may lower the risk of death after a heart attack.	0
+Metrotrexate 2.5 MG/take 15 MG/week	Metrotrexate 2.5 MG/take 15 MG/week		0
+Mezopral	Mezopral		0
+Micardis	Telmisartan		0
+Microzide (Hydrochlorothiazide)	Microzide (Hydrochlorothiazide)	For treatment of hypertension and edema associated with congestive heart failure	0
+Midrin	 Isometh-Dichloral-Acetaminophn		0
+Milnacipran	Milnacipran	Nerve pain medication and antidepressant
+It can treat fibromyalgia.	0
+Minipress	Prazosin		0
+Mobic	Meloxicam		0
+Mometasone 	Mometasone 	This medication is used to treat skin conditions such as eczema, psoriasis, allergies, and rashes.	108118
+Montelukast	Montelukast	It can treat allergies and prevent asthma attacks.	88249
+Moxatag	Amoxicillin		0
+Mucinex	Mucinex		0
+Multivitamin	Multivitamin		0
+Mycophenolic acid	Mycophenolic acid	Immunosuppressive drug
+It can prevent organ rejection after transplant.	0
+Myfortic	Mycophenolic acid		0
+Mysoline	Mysoline	It can treat seizure disorders.	0
+Namenda, Namenda Titration Pak, Namenda XR	Memantine		0
+Naproxen	Naproxen	It can treat fever and pain	0
+Naratriptan	Naratriptan	It can treat migraine headaches.	0
+Nature-Throid	Nature-Throid	Natural based medication that can treat/help hypothyroidism	0
+Neupro Patch	Rotigotine Transdermal System		0
+Neuraptine	Neuraptine	Nerve pain medication and anticonvulsant
+It can treat seizures and pain caused by shingles.	0
+Neurontin (Gabapentin)	Neurontin (Gabapentin)	For treatment of seizures. Also used to control nerve pain following shingles	0
+Neurontin, Gralise, Horizant	Gabapentin		0
+Nexium	Esomeprazole		0
+Niacin	Niacin	It can treat high cholesterol and triglyceride levels as well as niacin deficiency. It can also reduce the risk of heart attack and slow narrowing of the arteries.	0
+Niacin No Flush, Niacin Flush Free	Niacin		0
+Nitroglycerin	Nitroglycerin	It can treat and prevent chest pain (angina) in its oral form. When used rectally, it can treat pain caused by tears in the skin around the opening for bowel movements (anal fissures).	0
+Nitrostat, Rectiv, Nitrolingual	Nitroglycerin		0
+NORETHINDRONE	NORETHINDRONE		7514
+Norflex	Norflex	helps to relieve pain and stiffness in muscles and can treat muscle spasms.	0
+Norvasc	Amlodipine		0
+Norvasc (Amlodipine)	Norvasc (Amlodipine)	For treatment of high blood pressure, angina and other conditions caused by coronary artery disease	0
+nvarsus XR	nvarsus XR	It can prevent organ rejection after transplant in its oral form. When applied topically it can treat a skin rash and type of eczema called atopic dermatitis	0
+Oleptro (Trazodone)	Oleptro (Trazodone)	For treatment of depression	0
+Omega 3 (fish oil) 	Omega 3 (fish oil) 		0
+Omeprazole	Omeprazole	It can treat heartburn, a damaged esophagus, stomach ulcers, and gastroesophageal reflux disease (GERD).	0
+Omesec, Prilosec, Select	Omeprazole		0
+Ondansetron Hcl	Ondansetron Hcl	This medication is used alone or with other medications to prevent nausea and vomiting caused by cancer chemotherapy. It is also used to prevent and treat nausea and vomiting after surgery. It works by blocking one of the body's natural substances (serotonin) that causes vomiting.	0
+Orphenadrine ER	Norflex		0
+Otezla	Apremilast		0
+Other	Other		0
+Oxycodone	Oxycodone	It can treat moderate to severe pain.	0
+Oxycontin, Roxicodone, Xtampza ER	Oxycodone		0
+Pantoprazole (Protonix)	Pantoprazole (Protonix)	For treatment of acid reflux (GERD)	0
+Paroxetine	Paroxetine	It can treat depression, anxiety disorders, obsessive-compulsive disorder (OCD), and premenstrual dysphoric disorder (PMDD)	0
+Paroxetine HCI 40MG	Paroxetine HCI 40MG		0
+Paxil, Pexeva, Brisdelle	Paroxetine		0
+Percocet	Acetaminophen / Oxycodone		0
+Percocet (Oxycodone)	Percocet (Oxycodone)	Narcotic pain reliever	0
+Phenytoin	Phenytoin	It can treat and prevent seizures.	0
+Pilocarpine	Pilocarpine	It can treat dry mouth caused by radiation treatment or Sjögren syndrome in its oral form. It can also reduce pressure in the eye from glaucoma.	0
+Pimecrolimus	Pimecrolimus	It can treat a form of eczema called atopic dermatitis.	0
+pioglitazone	pioglitazone	Uses
+Pioglitazone is a diabetes drug (thiazolidinedione-type, also called "glitazones") used along with a proper diet and exercise program to control high blood sugar in patients with type 2 diabetes. It works by helping to restore your body's proper response to insulin, thereby lowering your blood sugar.
+
+Controlling high blood sugar helps prevent kidney damage, blindness, nerve problems, loss of limbs, and sexual function problems. Proper control of diabetes may also lessen your risk of a heart attack or stroke.
+
+Pioglitazone is used either alone or in combination with other diabetes medications (such as metformin or a sulfonylurea such as glyburide).	33738
+Piroxicam	Piroxicam	Nonsteroidal anti-Inflammatory drug
+It can treat pain.	0
+Plan B One-Step, Mirena, Skyla	Levonorgestrel		0
+Plaquenil	Hydroxychloroquine		0
+Plavix (Clopidogrel)	Plavix (Clopidogrel)	Blood thinner	0
+Plecanatide	Trulance		0
+Potassium citrate	Potassium citrate	This medication is used to make the urine less acidic. This effect helps the kidneys get rid of uric acid, thereby helping to prevent gout and kidney stones. This medication can also prevent and treat certain metabolic problems (acidosis) caused by kidney disease.	0
+pramipexol	pramipexol		0
+pramipexole	pramipexole		0
+Pravachol	Pravastatin		0
+Pravachol (Pravastatin)	Pravachol (Pravastatin)	For treatment of high cholesterol	0
+Pravastatin	Pravastatin	It can treat high cholesterol and triglyceride levels. This may reduce the risk of heart attack, stroke, and related health conditions.	0
+Prazosin	Prazosin	Urinary retention medication and antihypertensive drug
+It can treat high blood pressure.	0
+Prednisone	Prednisone	It can treat many diseases and conditions, especially those associated with inflammation.	0
+Premarin	Conjugated estrogen		0
+Prenatal vitamins	Prenatal vitamins	Prenatal vitamins are vitamin and mineral supplements intended to be taken before and during pregnancy and during postnatal lactation. Although not intended to replace a healthy diet, prenatal vitamins provide women of child bearing age with nutrients recognized by the various health organizations including the American Dietetic Association as helpful for a healthy pregnancy outcome. It may be appropriate to start taking prenatal vitamins once the female enters childbearing age.Prenatal vitamins are similar to other multivitamins, but do contain different amounts of specific nutrients to better suit the needs of an expecting mother.	0
+Prevacid, Select, Rugby	Lansoprazole		0
+Prilosec (Omeprazole)	Prilosec (Omeprazole)	For treatment of acid reflux (GERD)	0
+Primidone	Primidone	It can treat seizure disorders.	0
+Prinivil (Lisinopril)	Prinivil (Lisinopril)	For treatment of high blood pressure (hypertension) or CHF	0
+Progesterone	Progesterone	It can prevent changes in the uterus in women taking estrogen after menopause. It can also treat menstrual periods that have stopped before menopause. 	0
+progestrine	progestrine		0
+Prolia	Prolia	It can treat osteoporosis and hypercalcemia. It can also treat bone cancer and bone problems in patients who have cancer.	0
+Prometrium, Crinone, Endometrin	Progesterone		0
+Propranolol	Propranolol	It can treat high blood pressure, chest pain (angina), and uneven heartbeat (atrial fibrillation). It can also treat tremors and proliferating infantile hemangioma. In addition, it can prevent migraine headaches.	0
+Proventil, AccuNeb, Ventolin	Albuterol		0
+Prozac (Fluoxetine)	Prozac (Fluoxetine)	For treatment of depression	0
+Prozac, Sarafem, Prozac Weekly	Fluoxetine		0
+Quetiapine	Quetiapine	It can treat schizophrenia, bipolar disorder, and depression.	0
+Raloxifene	Raloxifene	It can treat and prevent osteoporosis in women who have gone through menopause. It can also decrease the risk of breast cancer in postmenopausal women who have osteoporosis or a high risk of breast cancer.	0
+Ranitidine	Ranitidine	It can treat and prevent heartburn. it can also treat stomach ulcers, gastroesophageal reflux disease (GERD), and conditions that cause too much stomach acid.	0
+Rasagiline	Rasagiline	It can treat Parkinson's disease.	0
+Restasis	Cyclosporine		0
+Restoril	Restoril	Can cause paranoid or suicidal ideation and impair memory, judgment, and coordination. Combining with other substances, particularly alcohol, can slow breathing and possibly lead to death.	0
+Ritalin	METHYLPHENIDATE		0
+Robaxin, Robaxin-750	Methocarbamol		0
+Rosuvastatin	Rosuvastatin	It can treat high cholesterol and triglyceride levels. This may reduce the risk of heart attack, stroke, and related health conditions.	0
+Rotigotine Transdermal System	Rotigotine Transdermal System	 first and only Parkinson's "patch" you wear on your skin. The NEUPRO Patch delivers the dopamine agonist rotigotine through the skin, directly into the bloodstream. It releases the medicine 24 hours a day, providing stable, continuous delivery of medication	0
+Ryzolt, Ultram, ConZip	Tramadol		0
+Salagen 5mg	Salagen 5mg	Disp 90 Tablets
+Sig Take 1 tablet 3-4 times per day (maximum dose: 10mg 3 times per day)
+INGREDIENT: Pilocarpine hydrochloride
+NOTE:  Pilocarpine is available as a generic minimum 90 day therapy required for optimum effects so adjust amount dispensed accordingly.
+
+CAUTION: Read prescribing information . Many contraindication (ie, glaucoma,hepatic imparement) and precations(eye,heart,lung,and other diseases)
+	0
+Salagen, Isopto Carpine	Pilocarpine		0
+Savella	Milnacipran		0
+SEE LIST 	SEE LIST 		0
+Seroquel, Seroquel XR	Quetiapine		0
+Sertraline	Sertraline	It can treat depression, obsessive-compulsive disorder (OCD), posttraumatic stress disorder (PTSD), premenstrual dysphoric disorder (PMDD), social anxiety disorder, and panic disorder.	0
+Sildenafil	Sildenafil	Vasodilator
+It can treat erectile dysfunction. It can also treat high blood pressure in the lungs (pulmonary arterial hypertension).	0
+Simvastatin	Simvastatin	It can treat high cholesterol and triglyceride levels. This may reduce the risk of heart attack, stroke, and related health conditions.	0
+Singulair	Montelukast		0
+Singulair (Montelukast)	Singulair (Montelukast)	For treatment of allergies	0
+Sinusalia (Homeopathic)	Sinusalia (Homeopathic)		0
+Sitagliptin	Sitagliptin	It can treat type 2 diabetes.	0
+Sodium bicarbonate	Sodium bicarbonate	Sodium bicarbonate is an antacid used to relieve heartburn and acid indigestion. 
+Baking Soda	0
+Spiriva	Tiotropium		0
+spirivia 18 mg	spirivia 18 mg	once daily	0
+Spironolactone	Spironolactone	It can treat high blood pressure. It can also treat fluid retention (edema) and high levels of the hormone aldosterone.	0
+Stiction BP	Stiction BP		0
+Striction BP	Striction BP		0
+Sumatriptan	Sumatriptan	It can treat migraine and cluster headaches.	0
+Supplements	Supplements		0
+Symbicort	Budesonide / Formoterol		0
+Synthroid (Levothyroxine)	Synthroid (Levothyroxine)	For treatment of hypothyroidism and/or goiters	0
+Synthroid, Tirosint, Levoxyl	Levothyroxine		0
+Tacrolimus	Envarsus XR		42316
+Tamsulosin	Tamsulosin	It can treat an enlarged prostate (benign prostatic hyperplasia)	0
+Telmisartan	Telmisartan	It can treat high blood pressure.	0
+Temazepam	Restoril		0
+Temovate	Temovate		114398
+Tenormin	Atenolol		0
+Tenormin (Atenolol)	Tenormin (Atenolol)	Beta Blocker for treatment of high blood pressure and angina (chest pain)	0
+Teriflunomide	Teriflunomide	Teriflunomide is the active metabolite of leflunomide. Teriflunomide was investigated in the Phase III clinical trial TEMSO as a medication for multiple sclerosis. The study was completed in July 2010. 2-year results were positive.	0
+Tetracycline	Tetracycline	Antibiotic	0
+This section you will need to manually put in this info	This section you will need to manually put in this info		0
+Ticagrelor	Ticagrelor	It can prevent stroke, heart attack, and other heart problems.	0
+Timolol	Timolol	It can treat high blood pressure and migraine headaches, and lower the risk of repeated heart attacks in its oral form. It can also treat glaucoma when used in the eye.	0
+Timoptic, Betimol, Timoptic-xe	Timolol		0
+Tiotropium	Tiotropium	It can prevent bronchospasm caused by COPD and reduce flare-ups of serious symptoms.	0
+Tizanidine	Tizanidine	It can treat muscle spasms.	0
+Topamax, Qudexy	Topiramate		0
+Topiramate	Topiramate	It can treat and prevent seizures. It can also prevent migraine headaches.	0
+Toprol XL (Metoprolol)	Toprol XL (Metoprolol)	For treatment of high blood pressure and angina	0
+Tramadol	Tramadol	High risk for addiction and dependence. Can cause respiratory distress and death when taken in high doses or when combined with other substances, especially alcohol.	0
+Travatan	Travoprost		0
+Travoprost	Travoprost	It can treat glaucoma and hypertension in the eye.	0
+Trazodone	Trazodone		0
+Tresiba	Insulin degludec		0
+Triamcinolone acetonide cream	Triamcinolone acetonide cream	topical steroid. It reduces the actions of chemicals in the body that cause inflammation, redness, and swelling.	0
+Triamterene 	Triamterene 	Triamterene is a potassium-sparing diuretic (water pill) that prevents your body from absorbing too much salt and keeps your potassium levels from getting too low.
+
+Triamterene is used to treat fluid retention (edema) in people with congestive heart failure, cirrhosis of the liver, or a kidney condition called nephrotic syndrome.
+
+Triamterene is also used to treat edema caused by using steroid medicine or having too much aldosterone in your body. Aldosterone is a hormone produced by the adrenal glands to help regulate the salt and water balance in your body.
+	0
+Triazolam	Triazolam	It can treat insomnia. (controlled substance)	0
+Tricor (Fenofibrate)	Tricor (Fenofibrate)	For treatment of high cholesterol	0
+Trilipix, Tricor, Triglide	Fenofibrate		0
+Triostat	Liothyronine		0
+Trulance	Trulance		0
+Trusopt	Dorzolamide		0
+Turmeric	Turmeric		0
+Tylenol Pm	Tylenol Pm		0
+Ultram (Tramadol)	Ultram (Tramadol)	Narcotic pain reliever	0
+Valacyclovir	Valacyclovir	It can treat herpes virus infections, including shingles, cold sores, and genital herpes. It can also treat chickenpox. This medication does not cure herpes, but may prevent herpes sores or blisters.	0
+Valium	Diazepam		0
+Valsartan	Valsartan	It can treat high blood pressure and heart failure. It can also lower the risk of death after a heart attack.	69749
+Valtrex	Valacyclovir		0
+VENLAFAXINE	VENLAFAXINE		0
+Ventolin (Albuterol Inhaler)	Ventolin (Albuterol Inhaler)	For treatment of asthma	0
+verapamil 	verapamil 	It can treat high blood pressure, severe angina, and arrhythmia.	0
+Viagra	Sildenafil		0
+Vitamin C	Vitamin C		1151
+Vitamin D	Vitamin D	Regulates calcium and phosphorus absorption, maintenance of healthy bones and teeth, and is suggested to supply a protective effect against multiple diseases and conditions such as cancer, type 1 diabetes and multiple sclerosis.	11253
+Vitamin E	Vitamin E		11256
+Vitamins	Vitamins		0
+Voltaren, Cambia, Solaraze	Diclofenac		0
+warfarin	warfarin		0
+Warfarin	Warfarin	It can treat and prevent blood clots.	0
+Wellbutrin	Bupropion		42568
+Wellbutrin (Buproprion)	Wellbutrin (Buproprion)	For treatment of depression	0
+Xalatan	Latanoprost		0
+Xanax	Alprazolam		0
+Xanax (Alprazolam)	Xanax (Alprazolam)	For treatment of anxiety and panic disorders	0
+Xigduo 	Xigduo 	XIGDUO XR contains 2 prescription medicines called dapagliflozin and metformin. XIGDUO XR is used along with diet and exercise to improve blood sugar (glucose) control in adults with type 2 diabetes when treatment with either dapagliflozin or metformin has not controlled your blood sugar.	0
+Xyzal	Levocetirizine		0
+Zanaflex	Tizanidine		0
+Zantac	Ranitidine		0
+Zestoretic (Lisinopril)	Zestoretic (Lisinopril)	ACE Inhibitor for treatment of high blood pressure	0
+Zestril, Prinivil	Lisinopril		0
+Zithromax (Azithromycin)	Zithromax (Azithromycin)	Antibiotic	0
+Zocor (Simvastatin)	Zocor (Simvastatin)	For treatment of high cholesterol	0
+Zoloft	Sertraline		0
+Zoloft (Sertraline)	Zoloft (Sertraline)	For treatment of depression	0
+Zolpidem	Zolpidem	It can treat insomnia.	0
+Zovirax Ointment 	Zovirax Ointment 	apply a thin layer onto the lesion 6 times per day for 7 days.	0
+Zyloprim, Aloprim	Allopurinol		0
+Zyrtec	Cetirizine		0
+Zyrtec (Cetirizine)	Zyrtec (Cetirizine)	For treatment of allergies	0
